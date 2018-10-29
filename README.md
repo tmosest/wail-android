@@ -37,5 +37,7 @@ What am I learning. Using this to track what I've been learning in the android w
 
 ## Cool
 
+* [Dynamic Feature Modules](https://medium.com/mindorks/dynamic-feature-modules-the-future-4bee124c0f1)
 * [F-Droid](https://en.wikipedia.org/wiki/F-Droid)
   * Open source "Google play store". Can look up apps and see how they do things.
+  
