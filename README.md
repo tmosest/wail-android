@@ -16,6 +16,7 @@ What am I learning. Using this to track what I've been learning in the android w
 
 * [Android Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
 * [Dagger](https://github.com/google/dagger)
+  * [Introduction to DI and Dagger2](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-dagger-2-part-i-f2de5564ab25)
 * [Moshi](https://github.com/square/moshi)
 * [Android Jetpack](https://developer.android.com/jetpack/)
   * [Navigation](https://developer.android.com/topic/libraries/architecture/navigation/)
